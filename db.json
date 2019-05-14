@@ -1,14 +1,1025 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
+<div class="cmn-acc-order-details">
+<section class="cmn-order-details-container cmn-module-container one-whole">
+<div class=" cmn-module-border-bottom">
+<header class="mar-module-header">
+<h3 class="mar-module-title push-half--bottom">
+My Order Information
+</h3>
+</header>
+<div class="cmn-order-details grid">
+<div class="cmn-order-information-container grid__item one-whole xs-one-whole">
+<div class="order-info">
+<h3 class="mar-details-label" >
+<div class="order-number">
+<span class="order-label">ORDER #</span><span class="mar-order-num">OLBW068857214</span>
+</div>
+<div class="order-status icon-ready for pickup">
+<span class="order-status-label">Ready for PickUp</span>
+</div>
+</h3>
+</div>
+<div class="order-info-details">
+<div class="mar-details-label h5 epsilon">
+
+<span class="order-label">ORDER DATE</span>
+<span class="mar-date">
+04/25/2019</span>
+</div>
+<div class="mar-details-label h5 epsilon">
+<span class="order-label">TOTAL</span>
+<span class="order-total">$</span>
+</div>
+</div>
+</ul>
+</div>
+<script id="cart-json" type="application/json">{"status":"success","data":{"cartItems":[{"colorHEXCode":"","colorName":"Sweet Iris","associatedId":"","eligibleForGWP":"","unitPrice":"38.99","referenceNum":"354115","productType":"regular","id":"600475802","colorImageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/354115_0000087915_swatch","promoMessage":"NOW 40% OFF<br/>CLEARANCE/SELECT FINAL SALE","description":"","gwpMessage":"Free Gift","name":"Signature Stretch Active 7/8 Legging - Colorblock & Mesh Splicing","skuId":"600475802","promoAppliedAmount":0,"quantity":1,"gwpLink":"","productLink":"/signature-stretch-active-7-8-legging-colorblock-mesh-splicing/prd-354115","totalPrice":"23.39","outOfStockMsg":"","orderDetails":{"secondArrivalEst":"","isItemReturnable":true,"trackingNumber":"1Z9X977X0354975399","reviewURL":"/signature-stretch-active-7-8-legging-colorblock-mesh-splicing/prd-354115#skuId/600475802/review_submit","soldOut":false,"firstArrivalEst":"05/08/2019","trackingURL":"https://lanebryant.narvar.com/tracking/lanebryant/ups?tracking_numbers=1Z9X977X0354975399","shippingStatus":"Shipped"},"currencyCode":"$","maxQuantity":"","productId":"354115","size":"26/28","originalPrice":"38.99","notifications":"{}","imageALTText":"Signature Stretch Active 7/8 Legging - Colorblock & Mesh Splicing","skuStatus":"","invMessage":"","dArgs":"","imageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/354115_0000087915"},{"colorHEXCode":"","colorName":"Equipment Stripe","associatedId":"","eligibleForGWP":"","unitPrice":"28.99","referenceNum":"354613","productType":"regular","id":"600497255","colorImageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/354613_0000087942_swatch","promoMessage":"NOW 40% OFF<br/>CLEARANCE/SELECT FINAL SALE","description":"","gwpMessage":"Free Gift","name":"Signature Stretch Active 7/8 Legging - Mesh Splicing","skuId":"600497255","promoAppliedAmount":0,"quantity":1,"gwpLink":"","productLink":"/signature-stretch-active-7-8-legging-mesh-splicing/prd-354613","totalPrice":"17.39","outOfStockMsg":"","orderDetails":{"secondArrivalEst":"","isItemReturnable":true,"trackingNumber":"1Z9X977X0354975399","reviewURL":"/signature-stretch-active-7-8-legging-mesh-splicing/prd-354613#skuId/600497255/review_submit","soldOut":false,"firstArrivalEst":"05/08/2019","trackingURL":"https://lanebryant.narvar.com/tracking/lanebryant/ups?tracking_numbers=1Z9X977X0354975399","shippingStatus":"Shipped"},"currencyCode":"$","maxQuantity":"","productId":"354613","size":"26/28","originalPrice":"28.99","notifications":"{}","imageALTText":"Signature Stretch Active 7/8 Legging - Mesh Splicing","skuStatus":"","invMessage":"","dArgs":"","imageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/354613_0000087942"},{"colorHEXCode":"","colorName":"Chic Pink","associatedId":"","eligibleForGWP":"","unitPrice":"24.99","referenceNum":"353599","productType":"regular","id":"600471030","colorImageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/353599_0000021588_swatch","promoMessage":"NOW 40% OFF<br/>CLEARANCE/SELECT FINAL SALE","description":"Sold Out","gwpMessage":"Free Gift","name":"Wicking Active 7/8 Legging","skuId":"600471030","promoAppliedAmount":0,"quantity":1,"gwpLink":"","productLink":"#","totalPrice":"14.99","outOfStockMsg":"","orderDetails":{"secondArrivalEst":"","isItemReturnable":true,"trackingNumber":"1Z37X3W50338392279","reviewURL":"/wicking-active-7-8-legging/prd-353599#skuId/600471030/review_submit","soldOut":true,"firstArrivalEst":"05/08/2019","trackingURL":"https://lanebryant.narvar.com/tracking/lanebryant/ups?tracking_numbers=1Z37X3W50338392279","shippingStatus":"Picked Up"},"currencyCode":"$","maxQuantity":"","productId":"353599","size":"26/28","originalPrice":"24.99","notifications":"{}","imageALTText":"Wicking Active 7/8 Legging","skuStatus":"","invMessage":"","dArgs":"","imageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/353599_0000021588"},{"colorHEXCode":"","colorName":"Black","associatedId":"","eligibleForGWP":"","unitPrice":"33.99","referenceNum":"353734","productType":"regular","id":"600466941","colorImageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/353734_0000081590_swatch","promoMessage":"NOW 40% OFF<br/>CLEARANCE/SELECT FINAL SALE","description":"","gwpMessage":"Free Gift","name":"Wicking Active 7/8 Legging - Colorblock & Mesh Inset","skuId":"600466941","promoAppliedAmount":0,"quantity":1,"gwpLink":"","productLink":"/wicking-active-7-8-legging-colorblock-mesh-inset/prd-353734","totalPrice":"20.38","outOfStockMsg":"","orderDetails":{"secondArrivalEst":"","isItemReturnable":true,"trackingNumber":"1Z9X977X0354975399","reviewURL":"/wicking-active-7-8-legging-colorblock-mesh-inset/prd-353734#skuId/600466941/review_submit","soldOut":false,"firstArrivalEst":"05/08/2019","trackingURL":"https://lanebryant.narvar.com/tracking/lanebryant/ups?tracking_numbers=1Z9X977X0354975399","shippingStatus":"Shipped"},"currencyCode":"$","maxQuantity":"","productId":"353734","size":"26/28","originalPrice":"33.99","notifications":"{}","imageALTText":"Wicking Active 7/8 Legging - Colorblock & Mesh Inset","skuStatus":"","invMessage":"","dArgs":"","imageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/353734_0000081590"},{"colorHEXCode":"","colorName":"Mixed Berry","associatedId":"","eligibleForGWP":"","unitPrice":"38.99","referenceNum":"353147","productType":"regular","id":"600451297","colorImageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/353147_0000023222_swatch","promoMessage":"NOW 40% OFF<br/>CLEARANCE/SELECT FINAL SALE","description":"","gwpMessage":"Free Gift","name":"Wicking Active 7/8 Legging - Criss-Cross Mesh","skuId":"600451297","promoAppliedAmount":0,"quantity":1,"gwpLink":"","productLink":"/wicking-active-7-8-legging-criss-cross-mesh/prd-353147","totalPrice":"23.39","outOfStockMsg":"","orderDetails":{"secondArrivalEst":"","isItemReturnable":true,"trackingNumber":"1Z37X3W50338392279","reviewURL":"/wicking-active-7-8-legging-criss-cross-mesh/prd-353147#skuId/600451297/review_submit","soldOut":false,"firstArrivalEst":"05/08/2019","trackingURL":"https://lanebryant.narvar.com/tracking/lanebryant/ups?tracking_numbers=1Z37X3W50338392279","shippingStatus":"Picked Up"},"currencyCode":"$","maxQuantity":"","productId":"353147","size":"26/28","originalPrice":"38.99","notifications":"{}","imageALTText":"Wicking Active 7/8 Legging - Criss-Cross Mesh","skuStatus":"","invMessage":"","dArgs":"","imageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/353147_0000023222"},{"colorHEXCode":"","colorName":"Demure Peach","associatedId":"","eligibleForGWP":"","unitPrice":"22.99","referenceNum":"353597","productType":"regular","id":"600488612","colorImageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/353597_0000021207_swatch","promoMessage":"NOW 40% OFF<br/>CLEARANCE/SELECT FINAL SALE","description":"","gwpMessage":"Free Gift","name":"Wicking Active 7/8 Legging","skuId":"600488612","promoAppliedAmount":0,"quantity":1,"gwpLink":"","productLink":"/wicking-active-7-8-legging/prd-353597","totalPrice":"13.79","outOfStockMsg":"","orderDetails":{"secondArrivalEst":"","isItemReturnable":true,"trackingNumber":"1Z9X977X0354975399","reviewURL":"/wicking-active-7-8-legging/prd-353597#skuId/600488612/review_submit","soldOut":false,"firstArrivalEst":"05/08/2019","trackingURL":"https://lanebryant.narvar.com/tracking/lanebryant/ups?tracking_numbers=1Z9X977X0354975399","shippingStatus":"Shipped"},"currencyCode":"$","maxQuantity":"","productId":"353597","size":"26/28","originalPrice":"22.99","notifications":"{}","imageALTText":"Wicking Active 7/8 Legging","skuStatus":"","invMessage":"","dArgs":"","imageURL":"//lanebryant.scene7.com/is/image/lanebryantProdATG/353597_0000021207"}],"brandDollarMesg":{"message":"","link":""},"cartSummary":{"payPalLink":"","numberOfItems":"","payment":{"taxesAndDuties":"7.09","giftCard":[],"giftWrap":"0.00","duties":"0.00","taxes":"7.09"},"estmShipping":"FREE","savings":[],"brandLoyalty":{"coupons":"","points":""},"shipping":[{"id":1,"selected":"","price":"","name":"6794 ","estArrival":""}],"returnTotal":"0.00","totalSavings":"0.00","returnPolicy":"","secureCheckoutLink":"","totalPostSvng":"120.42","totalPreSvng":"113.34"},"returnTransactions":[],"cartGWPs":[{"id":1,"gwpMessage":"","gwpLink":"","imageURL":"","qwpMessage":""}]}}</script>
+</div>
+</section>
+<section class="cmn-order-details-items-in-order mar-cart-main cmn-module-container">
+<div class="mar-cart-items asc-items mar-cart-order-details">
+</div>
+</section>
+<section class="cmn-order-details-returned-items mar-cart-main cmn-module-container asc-hide-return-section">
+<header class="mar-module-header">
+<h3 class="mar-module-title">Returns In Order</h3>
+</header>
+<div class="mar-cart-items asc-items-return">
+</div>
+</section>
+<section class="mar-cart-sidebar-container asc-cart-order-summary cmn-module-container three-fifths" id="asc-cart-order-summary">
+</section>
+</div>
+<script id="cart-item-template" type="tmpl/Ascena"><div class="mar-cart-item asc-item grid--full">
+	<figure class="mar-cart-item-img grid__item one-sixth xs-one-third">
+
+		{{ if((_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) && (_.isEqual(data.orderDetails.soldOut,false))) { }}
+				<a href="{{= data.productLink}}{{if (!_.isEmpty(data.skuId)){ }}#skuId/{{= data.skuId }} {{ } }}">
+		{{ } }}
+			<span data-picturefill data-alt="{{= data.name }}">
+				<span data-src="{{= data.imageURL }}"></span>
+
+				<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+				<noscript>
+					<img src="{{= data.imageURL }}" alt="{{= data.imageALTText }}">
+				</noscript>
+				<!--[if lte IE 9]><span data-src="{{= data.imageURL }}"></span><![endif]-->
+			</span>
+		{{ if((_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) && (_.isEqual(data.orderDetails.soldOut,false))) { }}
+			</a>
+		{{ } }}
+	</figure>
+	<div class="mar-cart-item-title">
+		<h2 class="product-title three-quarters h5">
+			{{ if((_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) && (_.isEqual(data.orderDetails.soldOut,false))) { }}
+				<a href="{{= data.productLink}}{{ if (!_.isEmpty(data.skuId)){ }}#skuId/{{= data.skuId }} {{ } }}" title="{{= data.name }}">
+			{{ } }}
+				{{= data.name }}
+
+			{{ if((_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) && (_.isEqual(data.orderDetails.soldOut,false))) { }}
+				</a>
+			{{ } }}
+			</h2>
+
+	</div>
+	<div class="mar-cart-item-details grid__item three-quarters xs-two-thirds">
+		{{ if(!_.isEqual(data.skuStatus,"invalid")) { }}
+
+		<div class="mar-cart-item-options xs-one-whole">
+            <div class="asc-cart-item-attributes cf" aria-hidden="true" tabindex="-1">
+                <ul class="grid__item three-quarters xs-three-quarters nav mar-sku-details">
+                    <li class="mar-cart-item-number">
+                        {{ if(!_.isNull(data.referenceNum) &&  !_.isUndefined(data.referenceNum) && !_.isEmpty(data.referenceNum)) { }}
+                            <span class="attr-label">{{= data.labels.style_id }}</span>
+                            <span class="asc-cart-item-ref-number">{{= data.referenceNum }}</span>
+                        {{ } }}
+                    </li>
+
+                    <li class="mar-cart-item-color">
+
+                        {{ if ((!_.isEmpty(data.colorHEXCode)) || (!_.isEmpty(data.colorName)) || (!_.isEmpty(data.colorImageURL))) { }}
+                        <span class="mar-label">{{= data.labels.color }}</span>
+                        {{ if (!_.isEmpty(data.colorHEXCode)) {
+                            var bgColorHex = 'style="background-color: '+data.colorHEXCode+';"';
+                        } }}
+
+                        {{ if (!_.isEmpty(data.colorImageURL)) {
+                            var colorImg = '<img src="'+data.colorImageURL+'" alt="'+data.colorSwatchALTText+'">';
+                        } }}
+                        <span class="mar-color inactive" {{= bgColorHex }} title="{{= data.colorName }}">{{= colorImg }}</span>
+                        <span class="mar-colorname">{{= data.colorName }}</span>
+                        {{ } }}
+
+                    </li>
+
+                {{ if (!_.isEmpty(data.size)) { }}
+                    <li class="mar-size-cart-item">
+                            <span class="mar-label">{{= data.labels.size }}</span>
+                            <span class="mar-size-text">{{= data.size }}</span>
+                    </li>
+                {{ } }}
+                {{ if (!_.isEmpty(data.length)) { }}
+                    <li class="mar-size-padd">
+                        <span class="mar-label">{{= data.labels.length }}</span>
+                        <span class="mar-size-text">{{= data.length }}</span>
+                    </li>
+                {{ } }}
+
+                    <li class="mar-quantity">
+                        {{ if(!_.isEqual(data.skuStatus,"outOfStock") && !_.isEqual(data.skuStatus,"discontinued")) { }}
+                            <span class="mar-label">{{= data.labels.quantity }}</span>
+                            <span class="asc-cart-item-quantity">{{= data.quantity }}</span>
+                        {{ } }}
+
+                        {{ if(!_.isUndefined(data.notifications) && !_.isEmpty(data.notifications.title) && !_.isEmpty(data.notifications.message) && _.isUndefined(data.isReview) && !_.isEqual(data.isReview, true) && _.isEqual(data.notifications.target, "quantity")) { }}
+                            <span class="mar-product-quantity-message" aria-live="polite">{{= data.notifications.title }}</span>
+                        {{ } }}
+
+                        {{ if(_.isEqual(data.skuStatus,"outOfStock") || _.isEqual(data.skuStatus,"discontinued")) { }}
+                        &nbsp;
+                        {{ } }}
+                    </li>
+                </ul>
+                <ul class="grid__item one-quarter xs-one-quarter nav mar-sku-details">
+                    {{ if(data.quantity > 1) { }}
+                    <!-- unit Price -->
+                    <li class="mar-total-price">{{=data.currencyCode }}{{ if(data.currSymSpace) { }} {{ } }}{{=data.unitPrice }}</li>
+                    {{ } }}
+                    <li class="mar-price-total mar-cart-price asc-item-total-price">
+                        {{ if(_.isEqual(data.totalPrice,"0.00")) { }}
+                            <span class="mar-price mar-sale-price" aria-label="{{=data.labels.free}}">{{=data.labels.free}}</span>
+                        {{ } else { }}
+                            {{ if(parseFloat(data.totalPrice) < parseFloat(data.originalPrice)) { }}
+
+                                <span class="mar-price mar-sale-expired" aria-label="previous-price">{{=data.currencyCode }}{{ if(data.currSymSpace) { }} {{ } }}{{= data.originalPrice }}</span>
+
+                                {{ if(!_.isUndefined(data.totalPrice) && !_.isEqual(data.skuStatus,"invalid") && !_.isEqual(data.skuStatus,"discontinued") && !_.isEqual(data.skuStatus,"outOfStock")) { }}
+                                    <span class="mar-price mar-sale-price" aria-label="sale-price">{{=data.currencyCode }}{{ if(data.currSymSpace) { }} {{ } }}{{= data.totalPrice }}</span>
+                                {{ } }}
+
+                            {{ } else { }}
+
+                                {{ if(!_.isUndefined(data.totalPrice) && !_.isEqual(data.skuStatus,"invalid") && !_.isEqual(data.skuStatus,"discontinued") && !_.isEqual(data.skuStatus,"outOfStock")) { }}
+                                    <span class="mar-price mar-sale-price" aria-label="sale-price">{{=data.currencyCode }}{{ if(data.currSymSpace) { }} {{ } }}{{= data.totalPrice }}</span>
+                                {{ } }}
+                            {{ } }}
+                        {{ } }}
+                    </li>
+                </ul>
+            </div>
+			{{ if(!_.isUndefined(data.orderSummaryLabels) && (!_.isUndefined(data.orderDetails.isItemReturnable) && _.isEqual(data.orderDetails.isItemReturnable,false))) { }}
+				<div class="non-returnable">
+					<span class="icon-warning"></span>
+					<span class="non-returnable--message">{{= data.orderSummaryLabels.returnsMessage }}</span>
+					<a class="mar-tooltip-trigger" href="javascript:;"><span class="non-returnable--why">{{= data.orderSummaryLabels.returnsLinkLabel }}</span><div class="tooltip-content tooltip-top">{{= data.orderSummaryLabels.returnsLinkMessage }}</div></a>
+				</div>
+			{{ } }}
+            <div class="mar-cart-item-promo mar-promo one-whole">
+                {{ if(_.isEqual(data.eligibleForGWP,true) && _.isUndefined(data.isReview)) { }}
+                    <ul class="mar-cart-gift-container grid__item one-half xs-one-whole text--right nav">
+                        <li class="grid__item one-whole xs-one-whole mar-inventory-msg">
+                            <button type="button" class="btn cta-btn inverted btn--full mar-select-free-gift mar-modal-trigger" data-modaldatatype="json" data-modalevent="launchGiftOptionsModal" data-itemid="{{= data.id }}" data-modalclass="asc-gift-module-modal">{{= data.labels.addGift }}</button>
+                        </li>
+                    </ul>
+                {{ } }}
+
+                {{ if(!_.isUndefined(data.promoMessage) && !_.isEmpty(data.promoMessage)) { }}
+                    <div class="grid__item cmn-promo-message">
+                        {{= data.promoMessage }}
+                    </div>
+                {{ } }}
+
+                <div class="grid__item one-whole cart-item-errors mar-error-text">
+                    {{ if(_.isEqual(data.skuStatus,"invalid") || _.isEqual(data.skuStatus,"outOfStock") || _.isEqual(data.skuStatus,"discontinued")) { }}
+                        <span class="mar-error-text grid__item one-whole">{{= data.description}}</span>
+                    {{ } }}
+
+                    {{ if(!_.isUndefined(data.invMessage)) { }}
+                        <span class="grid__item one-whole">{{= data.invMessage}}</span>
+                    {{ } }}
+
+                    {{ if((data.outOfStockMsg.length > 0)) { }}
+                        <span class="grid__item one-whole mar-cart-item-out-of-stock">{{= data.outOfStockMsg }}</span>
+                    {{ } }}
+                </div>
+
+                {{ if(_.isEqual(data.skuStatus,"outOfStock")) { }}
+                        <div><button class="asc-edit-btn cmn-select-other-colors" data-productid="{{= data.productId}}" data-sku="{{= data.skuId }}" data-modalevent="quickView.modal.openModal" data-modalclass="modal-quick-view" data-modaltarget="#quickView" data-modaldatatype="json">{{= data.otherColorSelectionMsg }}</button></div>
+                {{ } }}
+
+                {{ if(!_.isUndefined(data.shipFromStoreMsg) || !_.isEmpty(data.shipFromStoreMsg)) { }}
+                <div class="mar-cart-item-promo mar-promo grid__item one-whole">
+                    <div class="ship-from-store one-whole">
+                        <p class="mar-error-text">{{= data.shipFromStoreMsg }}</p>
+                    </div>
+                </div>
+                {{ } }}
+            </div>
+
+            <button class="asc-associate-actions-btn button visuallyhidden" data-id="{{= data.id }}" data-sku="{{= data.skuId }}"
+            data-modalevent="adjustPrice.modal"  data-modaltarget=".mar-aos-price-adjustment-view">Adjust Price</button>
+
+                <!-- pop up message -->
+                 {{ if(!_.isUndefined(data.notifications) && !_.isEmpty(data.notifications.title) && !_.isEmpty(data.notifications.message) &&  _.isUndefined(data.isReview) && !_.isEqual(data.isReview,true) && !_.isEqual(data.notifications.target, "quantity") ) { }}
+                      <div class="mar-item-adjustment-popup asc-item-adjustment-popup {{= data.notifications.target }}-arrow">
+                        <button type="button" class="asc-pop-message-close mar-icon icon-x"></button>
+                        <h4>{{= data.notifications.title }}</h4>
+                        <p>{{= data.notifications.message}}</p>
+                    </div>
+                {{ } }}
+
+            </div>
+
+            <div class="mar-cart-actions-container {{ if (!_.isEmpty(data.length)) { }} contains-length {{ } }}"></div>
+            {{ } }}
+
+            {{ if(_.isEqual(data.skuStatus,"invalid")) { }}
+
+                <p class="mar-error-text">{{= data.description}}</p>
+            {{ } }}
+            <p class="order-qty-limit-msg mar-error-text"></p>
+        </div>
+</div>
+</script>
+<script id="order-group-header-template" type="tmpl/Ascena"><div class='group-title'>{{= data.groupTitle}} <span class="group-title-status">{{= data.groupTitleStatus}}</span></div>
+
+{{ if (!_.isEmpty(data.trackingNumber)) { }}
+	<div class='tracking-number'>
+		{{= data.labels.shippingTracking }}<a class="mar-tooltip-trigger" href="javascript:;"><span class="icon-info"></span><div class="tooltip-content tooltip-top">{{= data.labels.trackingTooltip}}</div></a> 
+	<a class="tracking-number-url" href='{{= data.trackingURL}}' target="_blank">{{= data.trackingNumber }}</a>
+</div>
+{{ } }}
+
+{{ if (!_.isEmpty(data.labels.orderGroupMessage)) { }}
+	<div class='order-group-message'>{{= data.labels.orderGroupMessage}}</div>
+{{ } }}</script>
+<script id="return-header-template" type="tmpl/Ascena"><header class="return-transaction-header">
+	<div class="transaction-date">
+		{{= data.returnLabel }} {{= data.formattedDate }}
+	</div>
+	<div class="transaction-refund">
+		<a class="mar-tooltip-trigger" href="javascript:;">
+			<span class="icon-info"></span>
+			<div class="tooltip-content tooltip-top">
+				{{= data.returnsToolTip}}
+			</div>
+		</a>
+		<span class="transaction-refund--label">{{= data.refundAmountLabel }}</span>
+		<span class="transaction-refund--amount">-${{= data.refundAmount }}</span>
+	</div>
+</header></script>
+<script id="cart-item-order-detail-action-template" type="tmpl/Ascena">{{ if(_.isEqual(data.soldOut,false)) { }}
+
+{{ if(!_.isEqual(data.productType,'giftcard') && !_.isEqual(data.productType,'egiftcard')) { }}
+<div class="mar-cart-item-actions mar-cart-review-btn-container">
+	<a type="button" href="{{= data.realm }}{{= data.reviewURL }}" class="btn cta-btn cmn-submit-btn">{{= data.labels.reviewButton }}</a>
+</div>
+{{ } }}
+
+{{ } else { }}
+<p class="mar-error-text">{{= data.labels.soldOut }}</p>
+{{ } }}</script>
+<script id="cart-egift-template" type="tmpl/Ascena"><div class="mar-cart-item asc-item grid--full mar-cart-egift-item">
+	<div class="grid__item one-fifth xs-one-third mar-gift-image-holder">
+		<figure class="mar-cart-item-img-card xs-one-half">
+			{{ if(_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) { }}
+			<a href="{{= data.productLink }}#skuId/{{= data.skuId }}">
+			{{ } }}
+				<span data-picturefill data-alt="{{= data.name }}">
+					<span data-src="{{= data.imageURL }}?$cartThumb$" data-media="(max-width: 480px)"></span>
+					<span data-src="{{= data.imageURL }}?$cartThumb$" data-media="(min-width: 481px)"></span>
+
+				<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source
+				element. -->
+				<noscript>
+					<img src="{{= data.imageURL }}?$cartThumb$" alt="{{= data.imageALTText }}">
+				</noscript>
+				<!--[if lte IE 9]>
+					<span data-src="{{= data.imageURL }}"></span>
+				<![endif]-->
+				</span>
+			</a>
+			{{ if(_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) { }}
+			</a>
+			{{ } }}
+		</figure>
+	</div>
+
+
+
+	<div class="mar-cart-item-details grid__item four-fifths xs-two-thirds">
+		<div class="grid asc-cart-item-details-grid">
+			<div class="mar-cart-item-info grid__item three-quarters xs-three-quarters">
+				<h3 class="product-title">
+					{{ if(_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) { }}
+					<a href="{{= data.productLink }}#skuId/{{= data.skuId }}" title="{{= data.name }}">
+					{{ } }}
+					
+					{{= data.name }}
+					
+					{{ if(_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) { }}
+					</a>
+					{{ } }}
+				</h3>
+				<div class="egift-email">
+					<span class="mar-label email-label">{{=data.labels.recipientEmail}}</span>
+					<span class="recip-email">{{=data.email}}</span>
+				</div>
+				<div class="mar-item-sku">
+					{{ if(!_.isNull(data.skuId)) { }}
+						<span class="attr-label">{{= data.labels.style_id }}</span>
+						{{= data.skuId }}
+					{{ } }}
+				</div>
+
+				<div class="mar-cart-item-promo mar-promo">{{= data.promoMessage }}</div>
+				<div class="mar-cart-item-options-price">
+					<ul class="grid one-whole">
+						<li class="xs-one-whole">
+							{{ if ((!_.isEmpty(data.colorHEXCode)) || (!_.isEmpty(data.colorName)) || (!_.isEmpty(data.colorImageURL))) { }}
+								<div class="mar-label">{{= data.labels.eCardArt }}</div>
+								{{ if (!_.isEmpty(data.colorHEXCode)) {
+									var bgColorHex = 'style="background-color: '+data.colorHEXCode+';"';
+								} }}
+
+								{{ if (!_.isEmpty(data.colorImageURL)) {
+									var colorImg = '<img alt=' + data.colorName + ' src="'+data.colorImageURL+'">';
+								} }}
+								<span class="mar-color inactive" {{= bgColorHex }} title="{{= data.colorName}}">{{= colorImg }}</span>
+                                 <span class="mar-colorname">{{= data.colorName}}</span>
+								<!-- <span class="mar-color inactive" {{= bgColorHex }} title="{{= data.colorName}}">{{= colorImg }}</span> -->
+							{{ } }}
+						</li>
+
+						<li class="one-half xs-one-whole">
+							{{ if (!_.isEmpty(data.promoAppliedMsg)) { }}
+								<h6 class="mar-label">Discount</h6>
+								<div class="mar-discounts-text">
+									<span class="mar-discount-text">{{= data.promoAppliedMsg }}</span>
+								</div>
+							{{ } }}
+						</li>
+					</ul>
+
+				</div>
+			</div>
+
+
+			<div class="mar-cart-item-options-price grid__item one-quarter xs-one-quarter">
+				{{ if ((_.isEmpty(data.size)) && (_.isEmpty(data.promoAppliedMsg)) && (_.isEmpty(data.colorHEXCode)) && (_.isEmpty(data.colorName)) && (_.isEmpty(data.colorImageURL))) {
+					var borderBottom = 'style="border-bottom: none"';
+				} }}
+				<ul class="mar-cart-options-top grid one-whole" {{= borderBottom }}>
+				<!--	<li class="mar-quantity grid__item one-quarter xs-one-whole mar-tooltip-trigger">&nbsp;</li> -->
+
+
+					<li class="mar-NAME grid__item one-quarter xs-one-whole">
+						{{ if(!_.isEqual(data.promoAppliedAmount,0.00)) { }}
+						<h6 class="mar-label">{{= data.labels.savings }}</h6>
+						<span class="mar-price mar-cart-savings asc-item-total-saved">(<sup>$</sup>{{= data.promoAppliedAmount }})</span>
+						{{ } else { }}
+							&nbsp;
+						{{ } }}
+					</li>
+
+
+					<li class="mar-NAME grid__item one-quarter xs-one-whole">
+						<h6 class="mar-label no-label">{{= data.labels.unitPrice }}</h6>
+						{{ if(!_.isEqual(data.promoAppliedAmount,data.unitPrice) && !_.isEqual(data.promoAppliedAmount,0)) { }}
+						<span class="mar-price mar-sale-price">${{= data.unitPrice }}</span>
+						{{ } }}
+
+						{{ if(!_.isEqual(data.promoAppliedAmount,data.originalPrice) && !_.isEqual(data.promoAppliedAmount,0)) { }}
+							<span class="mar-price mar-sale-expired">${{= data.originalPrice }}</span>
+						{{ } }}
+					</li>
+
+					<li class="mar-NAME grid__item two-quarters xs-one-whole  no-padding mar-sale-price-container">
+						<h6 class="mar-label no-label">{{= data.labels.subtotal }}</h6>
+						<span class="mar-price mar-cart-price asc-item-total-price">{{=data.currencyCode }}{{ if(data.currSymSpace) { }} {{ } }}{{= data.totalPrice }}</span>
+					</li>
+
+					<li class="grid__item one-whole xs-one-whole mar-inventory-msg">
+						{{= data.invMessage}}
+					</li>
+				</ul>
+				<!-- pop up message -->
+				 {{ if(!_.isEmpty(data.notifications.title) && !_.isEmpty(data.notifications.message)) { }}
+
+					  <div class="mar-item-adjustment-popup asc-item-adjustment-popup {{= data.notifications.target }}-arrow">
+						<button type="button" class="asc-pop-message-close mar-icon icon-x"></button>
+						<h4>{{= data.notifications.title }}</h4>
+						<p>{{= data.notifications.message}}</p>
+					</div>
+				{{ } }}
+
+				<div class="mar-cart-options-bottom grid__item one-whole">
+					<div class="mar-cart-order-status">
+					</div>
+				</div>
+
+			</div>
+		</div>
+		{{ if(!_.isUndefined(data.orderSummaryLabels) && (!_.isUndefined(data.orderDetails.isItemReturnable) && _.isEqual(data.orderDetails.isItemReturnable,false))) { }}
+			<div class="non-returnable">
+				<span class="icon-warning"></span>
+				<span class="non-returnable--message">{{= data.orderSummaryLabels.returnsMessage }}</span>
+				<a class="mar-tooltip-trigger" href="javascript:;"><span class="non-returnable--why">{{= data.orderSummaryLabels.returnsLinkLabel }}</span><div class="tooltip-content tooltip-top">{{= data.orderSummaryLabels.returnsLinkMessage }}</div></a> 
+			</div>
+		{{ } }}
+		<div class="mar-cart-actions-container"></div>
+	</div>
+</div>
+</script>
+<script id="cart-gift-template" type="tmpl/Ascena"><div class="mar-cart-item asc-item grid--full mar-cart-gift-item">
+	<div class="grid__item one-fifth xs-one-third mar-gift-image-holder ">
+		<figure class="mar-cart-item-img-card xs-one-whole">
+			{{ if(_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) { }}
+			<a href="{{= data.productLink }}">
+			{{ } }}
+				<span data-picturefill data-alt="{{= data.name }}">
+					<span data-src="{{= data.imageURL }}?$cartThumb$" data-media="(max-width: 480px)"></span>
+					<span data-src="{{= data.imageURL }}?$cartThumb$" data-media="(min-width: 481px)"></span>
+
+					<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+					<noscript>
+						<img src="{{= data.imageURL }}?$cartThumb$" alt="{{= data.imageALTText }}">
+					</noscript>
+					<!--[if lte IE 9]><span data-src="{{= data.imageURL }}"></span><![endif]-->
+				</span>
+			{{ if(_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) { }}
+			</a>
+			{{ } }}
+		</figure>
+		{{ if(!_.isUndefined(data.associatedItem.imageURL)) { }}
+		<figure class="mar-cart-item-img-sleeve xs-one-whole">
+			<a href="#{{= data.associatedItem.productLink }}">
+				<span data-picturefill data-alt="{{= data.associatedItem.name }}">
+					<span data-src="{{= data.associatedItem.imageURL }}" data-media="(max-width: 480px)"></span>
+					
+					<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source
+					element. -->
+					<noscript>
+						<img src="{{= data.associatedItem.imageURL }}" alt="{{= data.associatedItem.imageALTText }}">
+					</noscript>
+					<!--[if lte IE 9]><span data-src="{{= data.associatedItem.imageURL }}"></span><![endif]-->
+				</span>
+			</a>
+		</figure>
+		{{ } }}
+   </div>
+	<div class="mar-cart-item-details grid__item four-fifths xs-two-thirds">
+		<div class="grid asc-cart-item-details-grid">
+			<div class="mar-cart-item-info grid__item three-quarters xs-three-quarters">
+				<h3 class="product-title">
+					{{ if(_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) { }}
+					<a href="{{= data.productLink }}" title="{{= data.name }}">
+					{{ } }}
+
+					{{= data.name }}
+
+					{{ if(_.isUndefined(data.isReview) && !_.isEqual(data.skuStatus,"invalid")) { }}
+					</a>
+					{{ } }}
+				</h3>
+				<div class="mar-item-sku">
+					{{ if(!_.isNull(data.skuId)) { }}
+						<span class="attr-label">{{= data.labels.style_id }}</span>
+						{{= data.skuId }}
+					{{ } }}
+				</div>
+				<div class="mar-cart-item-promo mar-promo">{{= data.promoMessage }}</div>
+
+				<div class="mar-cart-item-options-price">
+					<ul class="grid one-whole">
+						<li class="mar-cart-sleeve-art xs-one-whole">
+							{{ if ((!_.isEmpty(data.associatedItem.colorHEXCode)) || (!_.isEmpty(data.associatedItem.colorName)) || (!_.isEmpty(data.associatedItem.colorImageURL))) { }}
+								<div class="mar-label">{{= data.labels.sleeveArt }}</div>
+								{{ if (!_.isEmpty(data.associatedItem.colorHEXCode)) {
+									var bgColorHex = 'style="background-color: ' + data.associatedItem.colorHEXCode + ';"';
+								} }}
+
+								{{ if (!_.isEmpty(data.associatedItem.colorImageURL)) {
+									var colorImg = '<img alt=' + data.associatedItem.colorName + ' src="'+data.associatedItem.colorImageURL+'">';
+								} }}
+								<span class="mar-color inactive" {{= bgColorHex }} title="{{=data.associatedItem.colorName}}">{{= colorImg }}</span>
+
+							{{ } }}
+						</li>
+						<li class="xs-one-whole">
+							{{ if ((!_.isEmpty(data.colorHEXCode)) || (!_.isEmpty(data.colorName)) || (!_.isEmpty(data.colorImageURL))) { }}
+								<div class="mar-label">{{= data.labels.cardArt }}</div>
+								{{ if (!_.isEmpty(data.colorHEXCode)) {
+									var bgColorHex = 'style="background-color: ' + data.colorHEXCode + ';"';
+								} }}
+
+								{{ if (!_.isEmpty(data.colorImageURL)) {
+									var colorImg = '<img alt=' + data.colorName + ' src="'+data.colorImageURL+'">';
+								} }}
+								<span class="mar-color inactive" {{= bgColorHex }} title="{{=data.colorName}}">{{= colorImg }}</span>
+                                 <span class="mar-colorname">{{= data.colorName}}</span>
+								<!-- <span class="mar-color inactive" {{= bgColorHex }} title="{{=data.colorName}}">{{= colorImg }}</span> -->
+							{{ } }}
+						</li>
+						<li class="xs-one-whole">
+							{{ if (!_.isEmpty(data.promoAppliedMsg)) { }}
+								<h6 class="mar-label">Discount</h6>
+								<div class="mar-discounts-text">
+									<span class="mar-discount-text">{{= data.promoAppliedMsg }}</span>
+								</div>
+							{{ } }}
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="mar-cart-item-options-price grid__item one-quarter xs-one-quarter">
+				{{ if ((_.isEmpty(data.size)) && (_.isEmpty(data.promoAppliedMsg)) && (_.isEmpty(data.colorHEXCode)) && (_.isEmpty(data.colorName)) && (_.isEmpty(data.colorImageURL))) {
+					var borderBottom = 'style="border-bottom: none"';
+				} }}
+				<ul class="mar-cart-options-top grid one-whole" {{= borderBottom }}>
+					<!--are these first two li being used?????-->
+					{{ if(!_.isEqual(data.promoAppliedAmount,0)) { }}
+					<li class="mar-cart-savings grid__item one-quarter xs-one-whole">
+						<h6 class="mar-label no-label">{{= data.labels.savings }}</h6>
+						<span class="mar-price mar-cart-savings asc-item-total-saved">(<sup>$</sup>{{= data.promoAppliedAmount }})</span>
+					</li>
+					{{ } }}
+					<li class="grid__item one-quarter xs-one-whole mar-inventory-msg">
+						{{= data.invMessage}}
+					</li>
+					<li class="mar-NAME grid__item one-quarter xs-one-whole">
+						<h6 class="mar-label no-label">{{= data.labels.unitPrice }}</h6>
+
+						{{ if(!_.isEqual(data.promoAppliedAmount,data.unitPrice) && !_.isEqual(data.promoAppliedAmount,0)) { }}
+						<span class="mar-price mar-sale-price">${{= data.unitPrice }}</span>
+						{{ } }}
+
+						{{ if(!_.isEqual(data.promoAppliedAmount,data.originalPrice) && !_.isEqual(data.promoAppliedAmount,0)) { }}
+							<span class="mar-price mar-sale-expired"><sup>$</sup>{{= data.originalPrice }}</span>
+						{{ } }}
+					</li>
+
+					<li class="mar-NAME grid__item one-quarter xs-one-whole no-padding mar-sale-price-container">
+						<h6 class="mar-label no-label">{{= data.labels.subtotal }}</h6>
+						<span class="mar-price mar-cart-price asc-item-total-price ">{{=data.currencyCode }}{{ if(data.currSymSpace) { }} {{ } }}{{= data.totalPrice }}</span>
+					</li>
+ 				</ul>
+				<!-- pop up message -->
+				 {{ if(!_.isEmpty(data.notifications.title) && !_.isEmpty(data.notifications.message)) { }}
+
+					  <div class="mar-item-adjustment-popup asc-item-adjustment-popup {{= data.notifications.target }}-arrow">
+						<button type="button" class="asc-pop-message-close mar-icon icon-x"></button>
+						<h4>{{= data.notifications.title }}</h4>
+						<p>{{= data.notifications.message}}</p>
+					</div>
+				{{ } }}
+
+
+				<div class="mar-cart-options-bottom grid__item one-whole">
+					<div class="mar-cart-order-status">
+					</div>
+				</div>
+			</div>
+            	<div class="mar-cart-item-shipping grid__item one-whole">
+					{{ if(!_.isUndefined(data.orderDetails.shippingStatus) && (!_.isEqual(data.orderDetails.trackingNumber,""))) { }}
+					<div class="cmn-shipping-status">
+						{{= data.orderDetails.shippingStatus }}
+					</div>
+					{{ } }}
+					{{ if(!_.isUndefined(data.orderDetails.trackingURL) && !_.isUndefined(data.orderDetails.trackingNumber) && (!_.isEqual(data.orderDetails.trackingNumber,"")) && (_.isEqual(data.orderDetails.shippingStatus,"Shipped"))) { }}
+					<div class="cmn-shipping-tracking">{{= data.labels.shippingTracking }} <a href="{{= data.orderDetails.trackingURL}}" target="_blank">
+					{{= data.orderDetails.trackingNumber }}</a></div>
+					{{ } }}
+
+					{{ if(!_.isUndefined(data.orderDetails.firstArrivalEst) && !_.isUndefined(data.orderDetails.secondArrivalEst)) { }}
+						{{ if(!_.isEqual(data.orderDetails.firstArrivalEst,"") && (_.isEqual(data.orderDetails.shippingStatus,"Processing") || _.isEqual(data.orderDetails.shippingStatus,"Shipped"))) { }}
+						<div class="cmn-estimated-arrival">{{= data.labels.shippingArrival }}: {{= data.orderDetails.firstArrivalEst }}
+						{{ if(!_.isEqual(data.orderDetails.secondArrivalEst,"")) { }}
+							-{{= data.orderDetails.secondArrivalEst }}
+						{{ } }}
+						</div>
+						{{ } }}
+					{{ } }}
+			</div>
+		</div>
+		{{ if(!_.isUndefined(data.orderSummaryLabels) && (!_.isUndefined(data.orderDetails.isItemReturnable) && _.isEqual(data.orderDetails.isItemReturnable,false))) { }}
+			<div class="non-returnable">
+				<span class="icon-warning"></span>
+				<span class="non-returnable--message">{{= data.orderSummaryLabels.returnsMessage }}</span>
+				<a class="mar-tooltip-trigger" href="javascript:;"><span class="non-returnable--why">{{= data.orderSummaryLabels.returnsLinkLabel }}</span><div class="tooltip-content tooltip-top">{{= data.orderSummaryLabels.returnsLinkMessage }}</div></a> 
+			</div>
+		{{ } }}
+		<div class="mar-cart-actions-container"></div>
+	</div>
+</div>
+</script>
+<script id="cart-freegift-template" type="tmpl/Ascena"><div class="mar-cart-item asc-item mar-cart-free-gift grid">
+	<span class="mar-cart-item-free-gift-message"><div class="stack-text">{{= data.gwpMessage }}</div></span>
+
+	<figure class="mar-cart-item-img grid__item one-fifth xs-one-half">
+		<span data-picturefill data-alt="{{= data.name }}">
+			<span data-src="{{= data.imageURL }}?$small$" data-media="(max-width: 480px)"></span>
+			<span data-src="{{= data.imageURL }}?$small$" data-media="(min-width: 481px)"></span>
+
+			<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+			<noscript>
+				<img src="{{= data.imageURL }}?$small$" alt="{{= data.imageALTText }}">
+			</noscript>
+			<!--[if IE 8 ]><span data-src="{{= data.imageURL }}?$small$"></span><![endif]-->
+		</span>
+	</figure>
+	<div class="mar-cart-item-details grid__item four-fifths xs-one-half">
+		<div class="grid">
+		<h3 class="product-title">{{= data.name }}</h3>
+			<div class="mar-cart-item-info grid__item two-thirds xs-one-whole">
+				
+				<div class="mar-item-sku">
+					{{ if(!_.isNull(data.skuId)) { }}
+						<span class="attr-label">{{= data.labels.style_id }}</span>
+						{{= data.skuId }}
+					{{ } }}
+				</div>
+
+				<div class="mar-cart-options-bottom grid__item one-whole">
+					<ul class="grid one-whole">
+						<li class="mar-cart-size grid__item one-quarter xs-one-whole">
+							{{ if (!_.isEmpty(data.size)) { }}
+								<span class="mar-label">{{= data.labels.size }}</span>
+								<span class="mar-size-text">{{= data.size }}</span>
+							{{ } }}
+						</li>
+						<li class="mar-cart-color grid__item one-quarter xs-one-whole">
+							{{ if ((!_.isEmpty(data.colorHEXCode)) || (!_.isEmpty(data.colorName)) || (!_.isEmpty(data.colorImageURL))) { }}
+								<span class="mar-label">{{= data.labels.color }}</span>
+								{{ if (!_.isEmpty(data.colorHEXCode)) {
+									var bgColorHex = 'style="background-color: '+data.colorHEXCode+';"';
+								} }}
+
+								{{ if (!_.isEmpty(data.colorImageURL)) {
+									var colorImg = '<img src="'+data.colorImageURL+'">';
+								} }}
+								<span class="mar-color inactive" {{= bgColorHex }} title="{{=data.colorName}}">{{= colorImg }}</span>
+								<span class="mar-colorname">{{= data.colorName}}</span>
+							{{ } }}
+						</li>
+						<li class="mar-cart-discount grid__item one-half xs-one-whole">
+							{{ if (!_.isEmpty(data.promoAppliedMsg)) { }}
+								<h6 class="mar-label">Discount</h6>
+								<div class="mar-discounts-text">
+									<span class="mar-discount-text">{{= data.promoAppliedMsg }}</span>
+								</div>
+							{{ } }}
+						</li>
+					</ul>
+
+					<div class="mar-cart-order-status">
+
+					</div>
+				</div>
+
+				<div class="mar-cart-item-promo mar-promo">{{= data.promoMessage }}</div>
+			</div>
+			<div class="mar-cart-item-options-price grid__item one-third xs-one-whole">
+				{{ if ((_.isEmpty(data.size)) && (_.isEmpty(data.promoAppliedMsg)) && (_.isEmpty(data.colorHEXCode)) && (_.isEmpty(data.colorName)) && (_.isEmpty(data.colorImageURL))) {
+					var borderBottom = 'style="border-bottom: none"';
+				} }}
+
+				<ul class="mar-cart-options-top grid one-whole" {{= borderBottom }}>
+					<li class="mar-NAME grid__item mar-cart-value-stacked one-whole xs-one-whole">
+						<span class="mar-label">{{= data.labels.unitPrice }}</span>
+						<span class="mar-price mar-sale-price">
+						{{= data.unitPrice}} </span>
+						<div class="mar-current-value-bottom-row cf">
+							<span class="mar-price mar-sale-expired">
+								<span class="mar-cart-item-detail-value text-strikethrough">$ {{= data.originalPrice }}</span><span class="mar-cart-item-price">$ {{= data.totalPrice }}</span>
+							</span>
+							<span class="free-gift-message">{{= data.gwpMessage }}</span>
+						</div>
+					</li>
+
+					<li class="mar-quantity grid__item xs-one-whole">
+						<span class="mar-label">{{= data.labels.quantity }}</span>
+						<!-- <input type="text" id="mar-item-qty" type="number" class="mar-item-qty mar-input-number" maxlength="2" name="mar-item-qty" value="{{= data.quantity }}" data-min="1" data-max="{{= data.maxQuantity }}" data-step="1"> -->
+						{{= data.quantity}}
+					</li>
+
+					<li class="mar-cart-subtotal grid__item  xs-one-whole">
+						<span class="mar-label">{{= data.labels.subtotal }}</span>
+						<span class="mar-price mar-cart-price asc-item-total-price">${{= data.totalPrice }}</span>
+					</li>
+
+					<li class="mar-cart-savings grid__item one-whole xs-one-whole">
+						{{ if(!_.isEqual(data.promoAppliedAmount,0.00)) { }}
+						<h6 class="mar-label">{{= data.labels.savings }}</h6>
+						<span class="mar-price mar-cart-savings asc-item-total-saved">(<sup>$</sup>{{= data.promoAppliedAmount }})</span>
+						{{ } else { }}
+							&nbsp;
+						{{ } }}
+					</li>
+				</ul>
+				
+				<!-- pop up message -->
+				 {{ if(!_.isEmpty(data.notifications.title) && !_.isEmpty(data.notifications.message)) { }}
+					  <div class="mar-item-adjustment-popup asc-item-adjustment-popup {{= data.notifications.target }}-arrow">
+						<button type="button" class="asc-pop-message-close mar-icon mar-icon-close"></button>
+						<h4>{{= data.notifications.title }}</h4>
+						<p>{{= data.notifications.message}}</p>
+					</div>
+				{{ } }}
+
+
+
+			</div>
+		</div>
+	</div>
+</div>
+</script>
+<script id="order-summary-template" type="tmpl/Ascena"><header class="mar-module-header accordion-trigger">
+    <h3 class="mar-module-title">Order Summary</h3>
+</header>
+<div class="cmn-order-details-order-summary soft-half--sides accordion-content">
+
+    <div class="mar-order-summary-section">
+        <dl class="split">
+            <dt class="split__title"><label class="mar-details-label">{{= data.labels.subtotal}}</label></dt>
+            <dd><span>${{= data.totalPreSvng }}</span></dd>
+        </dl>
+    </div>
+
+    <!-- promo savings -->
+    {{ if(!_.isNull(data.totalSavings) && (data.totalSavings !== undefined) && (data.totalSavings > 0 )) { }}
+    <div class="mar-order-summary-section">
+        <dl class="mar-cart-sidebar-pa-text split">
+            <dt class="split__title"><label class="mar-details-label">{{= data.labels.totalSavings }} <a href="" class="mar-show-savings asc-order-show-savings cmn-order-hide-saving"></a> </label> </dt>
+            <dd><span class="promo-total">(${{= data.totalSavings }})</span></dd>
+        </dl>
+        <div class="cmn-order-savings cmn-order-hide-saving asc-show-savings">
+            {{ if(!_.isNull(data.savings) && (data.savings !== undefined)) { }}
+            {{ _.each(data.savings, function(savings) { }}
+            <dl class="mar-cart-sidebar-pa-text split soft-half--left">
+                <dt class="split__title"><label class="mar-details-label promo-label">{{= savings.message }}</label></dt>
+                <dd><span>-${{= savings.value }}</span></dd>
+            </dl>
+            {{ }) }}
+            {{ } }}
+
+        </div>
+
+    </div>
+    {{ } }}
+
+    <div class="mar-order-summary-section">
+        <dl class="mar-cart-sidebar-pa-text split">
+			<dt class="split__title"><label class="mar-details-label">{{= data.labels.estimatedShipping }}</label></dt>
+			{{ if(data.estmShipping !== "FREE" ) { }}
+				<dd><span>${{= data.estmShipping }}</span></dd>
+			{{ } else{ }}
+				<dd><span>{{= data.estmShipping }}</span></dd>
+			{{ } }}
+        </dl>
+    </div>
+
+    {{ if(!_.isNull(data.payment.taxes) && (data.payment.taxes !== undefined)) { }}
+    {{ if(!_.isNull(data.payment.duties) && (data.payment.duties !== undefined) && (data.payment.duties > 0)) { }}
+    <div class="mar-order-summary-section">
+        <dl class="mar-cart-sidebar-pa-text split">
+            <dt class="split__title"><label class="mar-details-label">{{= data.labels.taxesAndDuties }}</label></dt>
+            <dd><span>${{= (parseFloat(data.payment.taxes) + parseFloat(data.payment.duties)) }}</span>
+            </dd>
+        </dl>
+    </div>
+
+    {{ } else{ }}
+    <div class="mar-order-summary-section">
+        <dl class="mar-cart-sidebar-pa-text split">
+            <dt class="split__title"><label class="mar-details-label">{{= data.labels.taxes }}</label></dt>
+            <dd><span>${{= data.payment.taxes }}</span></dd>
+        </dl>
+    </div>
+    {{ } }}
+    {{ } }}
+
+    {{ if(!_.isNull(data.payment.giftWrap) && (data.payment.giftWrap !== undefined) && (data.payment.giftWrap > 0)) { }}
+    <div class="mar-order-summary-section">
+        <dl class="mar-cart-sidebar-pa-text split">
+            <dt class="split__title"><label class="mar-details-label">{{= data.labels.giftWrap }}</label></dt>
+            <dd><span>${{= data.payment.giftWrap}}</span></dd>
+        </dl>
+    </div>
+
+    {{ } }}
+
+
+    {{ if(!_.isNull(data.payment.giftCard) && (data.payment.giftCard !== undefined)) { }}
+    {{ _.each(data.payment.giftCard, function(giftCard) { }}
+    <div class="mar-order-summary-section">
+        <dl class="mar-cart-sidebar-pa-text split">
+            <dt class="split__title"><label class="mar-details-label">{{= data.labels.giftCard }} - {{=
+                giftCard.cardNumber }}</label></dt>
+            <dd><span>-${{= giftCard.appliedAmount }}</span></dd>
+        </dl>
+    </div>
+    {{ }) }}
+    {{ } }}
+    
+</div>
+
+<div class="cmn-order-details-order-summary mar-order-summary-total soft-half--sides accordion-content">
+    <div class="mar-order-summary-section">
+        <dl class="mar-cart-sidebar-pa-text split">
+            <dt class="split__title"><label class="mar-details-label">{{= data.labels.estimatedTotal }}</label>
+            </dt>
+            <dd><span>${{= data.totalPostSvng }}</span></dd>
+        </dl>
+    </div>
+</div>
+</script>
+<script id="discount-item-template" type="tmpl/Ascena"><span class="mar-cart-label">
+	<span class="asc-discount-message">{{= data.message }}</span>
+	<span class="mar-cart-remove">{{ if(!_.isEmpty(data.CouponId))  { }}
+		<button type="button">Remove</button>{{ } }}
+	</span>
+</span>
+<span class="mar-price float--right">
+	{{ if(!_.isUndefined(data.value) && !_.isEqual(data.value, ''))  { }}
+		{{ if(!_.isEqual(data.value, 'FREE'))  { }}
+			({{= data.currencyCode}}{{ if(data.currSymSpace) { }} {{ } }}{{= data.value}})
+		{{ } else { }}
+			{{= data.value }}
+		{{ } }}
+		
+	{{ } }}
+</span></script>
+<script id="cart-order-status-template" type="tmpl/Ascena"><div class="mar-cart-order-status-content">
+	<h6 class="mar-label">{{= data.labels.itemStatus }}</h6>
+	<span class="mar-order-status">{{= data.itemStatus}}</span>
+
+	{{ if(!_.isUndefined(data.trackingURL)) { }}
+	<p>{{= data.labels.shippingTracking }} <a href="{{= data.trackingURL}}">{{= data.trackingNumber }}</a></p>
+	{{ } }}
+
+	{{ if(!_.isUndefined(data.firstArrivalEst) && !_.isUndefined(data.secondArrivalEst)) { }}
+		<p class="estimated-arrival">{{= data.labels.shippingArrival }} {{= data.firstArrivalEst }}
+							{{ if(!_.isEqual(data.secondArrivalEst,"")) { }}
+							-{{= data.secondArrivalEst }}
+						{{ } }}
+	</p>
+	{{ } }}
+</div></script>
+<script id="asc-labels" type="application/json">{
+	"cartItem" : {
+		"labels" : {
+			"moveButton" : "Move to My Favorites",
+			"sku" : "Style #:",
+			"edit" : "Edit",
+			"editGift" : "Edit Gift Card",
+			"editEGift" : "Edit eGift Card",
+			"remove" : "Remove",
+			"color" : "Color ",
+			"length" : "Length ",
+			"size" : "Size ",
+			"cardArt" : "Card Art ",
+			"sleeveArt" : "Sleeve Color",
+			"recipient" : "Recipient",
+			"recipientEmail" : "Recipient's Email:",
+			"confirmRecipientEmail" : "Confirm Recipient's Email",
+			"sender" : "Name of Sender",
+			"senderEmail" : "Sender's Email",
+			"message" : "message",
+			"messageLimit" : "250 characters max",
+			"eCardArt" : "eGift Card Art ",
+			"cardAmount" : "Card Amount",
+			"updateGift" : "Update Gift Card",
+			"updateEGift" : "Update eGift Card",
+			"updateCart" : "Update Cart",
+			"discount" : "Discount",
+			"quantity" : "Qty:",
+			"unitPrice" : "Unit Price",
+			"savings" : "Savings",
+			"subtotal" : "Subtotal",
+			"shippingStatus": "Shipping Status",
+			"shippingTracking": "Track this item:",
+			"shippingArrival": "Est arrival",
+			"returnStatus": "Return Status",
+			"soldOut": "Sold out",
+			"reviewButton": "Write A Review",
+			"aosTitle": "Item Price Adjustment",
+			"addGift": "Add Gift",
+			"mandatoryFields": "Please fill out the mandatory fields above",
+			"style_id": "Item #"
+		}
+	},
+	"myFavorites" : {
+		"labels" : {
+			"moveToCart": "Move to Bag",
+			"removeFavorite": "Remove from favs"
+		}
+	},
+	"youMayAlsoLike" : {
+		"labels" : {
+
+		}
+	},
+	"brandDollarsMessage" : {
+		"labels" : {
+
+		}
+	},
+	"orderSummary" : {
+		"labels" : {
+			"headline" : "Order Summary",
+			"instructionText" : "Please Select Your Shipping Option",
+			"showSavings" : "Show Details",
+			"subtotal" : "merchandise",
+			"totalSavings" : "promotion savings",
+			"estimatedShipping" : "Shipping",
+			"taxes" : "Tax",
+			"taxesAndDuties" : "Tax and Duties",
+			"giftWrap" : "Gift Wrap",
+			"giftCard" : "Gift Card",
+			"estimatedTotal" : "Total",
+			"totalAdditionalInfo" : "*Before sales tax",
+			"checkoutBtn" : "secure checkout",
+			"otherPaymentMethod" :  "checkout with",
+			"returnPolicy" : "Return Policy",
+			"shipToHome" : "ship to home",
+			"shipToStore" : "ship to store",
+			"estArrival" : "Estimated Arrival:",
+			"estPickup" : "Estimated Pickup:",
+			"shipToHomeInfo" : "*More delivery options during checkout",
+			"shipToStoreInfo" : "*Select store during checkout",
+			"secureThirdParty" : "Secure checkout with [third party]",
+			"ctaButton" : "Place Order",
+			"hideSavings" : "Hide Details",
+			"orderPromo": "Order Promotion",
+			"itemPromo": "Item Promotion",
+			"itemPromoInfo": "Applied to Subtotal",
+			"splitShipmentMessage": "Please note: there is no additional shipping fee for split shipments.",
+			"processingShipmentMessage": "You will receive a shipping confirmation email once your item(s) are on their way.",
+			"splitShipmentNamePrefix": "shipment ",
+			"splitShipmentProcessingNameSuffix": " (pending)",
+			"splitShipmentShippedNameSuffix": " (shipped)",
+			"splitShipmentReadyForPickupNameSuffix": " (ready for pickup)",
+			"splitShipmentPickedUpNameSuffix": " (picked up)",
+			"shipmentShippedName": "shipped",
+			"shipmentProcessingName": "processing",
+			"shipmentGiftCardName": "gift card",
+			"shipmentCanceledName": "canceled",
+			"shipmentUnclaimedName": "unclaimed",
+			"shippingTracking": "Track My Order:",
+			"canceledShipmentMessage": "The following item has been canceled.",
+			"trackingTooltip": "Tracking service is provided by Narvar. Use of Narvar service is subject to Narvar terms of service and privacy policy.",
+			"returnLabel":"Returned",
+                                     "refundAmountLabel":"Refund Total",	
+			"returnsMessage":"This item is not eligible for returns. ",
+			"returnsLinkLabel":"Why?",
+			"returnsLinkMessage":"Item is a GC/EGC/Non-returnable",
+			"returnsToolTip":"Refund Total is inclusive of taxes minus shipping fee"
+		}
+	},
+	"storeItem" : {
+		"labels" : {
+
+		}
+	},
+	"addressItem": {
+		"labels": {
+
+		}
+	},
+	"giftWithPurchase": {
+		"labels": {
+			"color" : "Color",
+			"size" : "Size",
+			"sku" : "SKU #",
+			"addGift": "Add Free Gift",
+			"addGifts": "Add Gift and Continue",
+			"addGiftsComplete": "Add Gifts to Order",
+			"clickToEdit": "Gift",
+			"selectGiftBelow": "Gift"
+		}
+	},
+		"checkoutReview": {
+		"labels":{
+			"itemHeader": "Items to be Shipped",
+			"edit": "Edit",
+			"editLink": "#",
+            "showGroupId": "true" 
+		}
+	},
+	"shippingAddress": {
+		"labels":
+		{ "noStoreErrorMessage": "we're sorry; we didn't find any stores in your area. please try expanding your search area, or select a ship to home option above.",
+		  "poboxLabel" : "That is a <span class=\"to--uppercase\">PO</span> Box",
+		  "apoLabel" : "<span class=\"to--uppercase\">APO/FPO</span> Address?"
+		}
+		
+		},
+    "checkoutReviewSingle": {
+		"labels":{
+			"itemHeader": "Items in order",
+			"edit": "Edit",
+			"editLink": "#"
+		}
+    }
+}</script>
